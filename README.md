@@ -24,7 +24,7 @@ import pyperclip
 import webbrowser
 import time
 
-destinatario =  "allansiqueira06@gmail.com"
+destinatario =  "email@gmail.com"
 assunto = "Analise do projeto"
 
 mensagem = f"""
